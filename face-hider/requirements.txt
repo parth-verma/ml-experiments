@@ -1,0 +1,7 @@
+dlib==19.15.0
+numpy==1.15.1
+opencv-contrib-python==3.4.2.17
+scikit-video==1.1.10
+scipy==1.1.0
+tqdm==4.25.0
+virtualenv==16.0.0
